@@ -1,0 +1,177 @@
+.navbar {
+    background-color: bisque !important;
+    text-align: right !important;
+}
+
+.nav-link {
+    color: black !important;
+    font-weight: bold;
+}
+
+.gotopbtn {
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    /* border: 2px solid gray; */
+    bottom: 3em;
+    right: 2em;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    /* color: white; */
+    font-size: 22px;
+}
+
+.imgsizee {
+    width: 70px;
+    height: 70px;
+}
+
+.gallery {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: 5px solid black;
+    border-radius: 15px;
+    text-align: right;
+}
+
+.overviewhead {
+    border: 2px dashed gray;
+    background-color: #ffbb6a;
+    margin: 2em 1em 2em 20em;
+    text-align: center;
+    padding: 0.5em 0 0.5em 0;
+    /* display: inline-block; */
+}
+
+.overviewhtext {
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.overviewptext {
+    text-align: justify;
+}
+
+.overviewpara {
+    margin: 0 2em 0 20em;
+}
+
+.offerhead {
+    border: 2px dashed gray;
+    background-color: #ffbb6a;
+    margin: 2em 1em 2em 20em;
+    text-align: center;
+    padding: 0.5em 0 0.5em 0;
+}
+
+.offerhtext {
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ser1 {
+    border: 2px solid brown;
+    border-radius: 20px;
+    padding: 3px 0x 3px 3px;
+    margin: 1em 0 0 55em;
+    position: relative;
+    left: -20%;
+    background: url(img/backgroundPattern.jpg);
+}
+
+.sidegallery {
+    float: left;
+    position: relative;
+}
+
+.ser1text {
+    font-size: 25px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    padding: 1em 1em 0.5em 1em;
+    text-align: center;
+}
+
+.clientname {
+    font-family: Jazz LET, fantasy;
+    font-size: 3em;
+    margin: 0;
+}
+
+.clientoccupation {
+    font-family: Courier, monospace;
+    font-weight: bold;
+}
+
+.clientss {
+    text-align: center;
+}
+
+.aboutowner {
+    font-family: Century Gothic;
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 1em 1em 1em 1em;
+}
+
+.aboutownerdiv {
+    border: 4px dashed blue;
+    border-radius: 19px;
+    text-align: center;
+    margin: 0 1em 0 20em;
+    background: url(img/ownerpattern.jpg);
+}
+
+.mapi {
+    /* position: relative;
+    left: 30em; */
+    text-align: center;
+}
+
+.contactlogo {
+    text-align: center;
+}
+
+.cellogo {
+    width: 10em;
+    height: 10em;
+}
+
+.contactnum {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0 0 1em 0;
+}
+
+.trainingsession {
+    width: 50%;
+    height: 50%;
+    border: 0.4em dashed blueviolet;
+}
+
+.ownerpic {
+    text-align: center;
+    margin: 3em 0 3em 0;
+    /* border: 2px solid blueviolet; */
+}
+
+.gallerypic {
+    text-align: center;
+}
+
+.cright {
+    position: absolute;
+    bottom: 0;
+    background-color: bisque;
+    position: relative;
+    /* bottom: -12em; */
+}
+
+.crighttext {
+    text-align: center;
+    padding: 0.4em 0 0.4em 0;
+}
